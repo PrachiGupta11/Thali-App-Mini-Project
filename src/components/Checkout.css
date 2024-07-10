@@ -1,0 +1,20 @@
+.header{
+  font-family:cursive;
+  background-color:#ababab;
+  padding:15px;
+  display:flex;
+}
+.nav-link{
+  display:flex;
+  align-items:center;
+  text-decoration:none;
+  color:black;
+  margin-left:auto
+}
+table{
+  border:1px solid gray;
+  border-radius:5px;
+  margin:5px;
+  padding:10px;
+  width:100%;
+}

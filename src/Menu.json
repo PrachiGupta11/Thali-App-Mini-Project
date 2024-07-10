@@ -1,0 +1,50 @@
+{
+  "menu":[
+    {
+      "id":"1",
+      "name":"Chapati",      "image":"https://th.bing.com/th/id/OIP.bk8gSulv0RijvUAHotMuuwHaE3?w=239&h=180&c=7&r=0&o=5&pid=1.7",
+      "price":"10"
+    },
+    {
+      "id":"2",
+      "name":"Pickle",      "image":"https://th.bing.com/th/id/OIP.ALdeKnmkQMP5tnrxxFyKEwHaE6?w=288&h=190&c=7&r=0&o=5&pid=1.7",
+      "price":"10"
+    },
+    {
+      "id":"3",
+      "name":"Curd",      "image":"https://th.bing.com/th/id/OIP.pKiYFiehI79vpk56EbzuEgHaEK?w=266&h=180&c=7&r=0&o=5&pid=1.7",
+      "price":"20"
+    },
+    {
+      "id":"4",
+      "name":"Laddu",      "image":"https://th.bing.com/th/id/OIP.si2SFt3uic6qluJcvEPKkQHaE9?w=300&h=201&c=7&r=0&o=5&pid=1.7",
+      "price":"25"
+    },
+    {
+      "id":"5",
+      "name":"Ras Malai",      "image":"https://th.bing.com/th/id/OIP.xUds2B-eLMn_BpV4aKMV0wHaFG?w=253&h=180&c=7&r=0&o=5&pid=1.7",
+      "price":"30"
+    },
+    {
+      "id":"6",
+      "name":"Gulab Jamun",      "image":"https://th.bing.com/th/id/OIP.0EJVhePR0GPd-hIkOYCaCQHaEH?w=249&h=180&c=7&r=0&o=5&pid=1.7",
+      "price":"25"
+    },
+    {
+      "id":"7",
+      "name":"Arhar Dal",      "image":"https://th.bing.com/th/id/OIP.N7lZnTU52nQVAubRE0rz8wHaGD?w=250&h=204&c=7&r=0&o=5&pid=1.7",
+      "price":"120"
+    },
+    {
+      "id":"8",
+      "name":"Dal Makhni",      "image":"https://th.bing.com/th/id/OIP.1MiLHDsDjhpIpmg5MXIfZQHaFj?w=228&h=180&c=7&r=0&o=5&pid=1.7",
+      "price":"120"
+    },
+    {
+      "id":"9",
+      "name":"Shahi Paneer",      
+      "image":"https://th.bing.com/th/id/OIP.6o-Tq141QVN7YIks2eC7HgHaD4?w=302&h=180&c=7&r=0&o=5&pid=1.7",
+      "price":"180"
+    }
+  ]
+}
